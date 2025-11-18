@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hey, I'm Suraj
 
-<!--
-**surajkp512/surajkp512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I’m learning, experimenting, and building projects around web development and automation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+
+- 🧭 **Project Management Dashboard** – a central hub to track all my personal projects  
+- 📚 Sharpening skills in **React, Vite, Django, APIs**  
+- ⚙️ Automating small tasks to make life easier
+
+---
+
+## 🗂 Featured Project
+
+### 🔧 Project Management Dashboard
+A repo where I plan, track, and showcase my projects.
+
+🔗 [View the repo](https://github.com/surajkp512/project_mgmt_dashboard)
+
+---
+
+## 💻 Tech & Tools
+
+- **Languages:** Python, JavaScript  
+- **Web:** React, Vite, Django / Flask (learning)  
+- **Tools:** Git, GitHub, VS Code, Postman  
+
+---
+
+## 📫 Connect
+
+- GitHub: [@surajkp512](https://github.com/surajkp512)
+
