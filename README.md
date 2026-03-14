@@ -4,9 +4,8 @@ Welcome to my GitHub! I’m learning, experimenting, and building projects aroun
 
 ---
 
-## 🚀 What I'm Working On
-
-- 🧭 Building a **Project Management Dashboard** to track all my personal projects  
+## What I'm Working On
+- 🚀 Building trading automation platform for 2 clients
 - 📚 Sharpening skills in **React, Vite, Django, APIs**  
 - ⚙️ Automating small tasks to make life easier
 
