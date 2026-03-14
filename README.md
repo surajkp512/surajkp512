@@ -11,15 +11,6 @@ Welcome to my GitHub! I’m learning, experimenting, and building projects aroun
 
 ---
 
-## 🗂 Featured Project
-
-### 🔧 Project Management Dashboard
-A central hub where I plan, track, and showcase what I’m building.
-
-🔗 [View the repo](https://github.com/surajkp512/project_mgmt_dashboard)
-
----
-
 ## 🧰 Tech Stack & Tools
 
 <!-- Badges from Shields.io / markdown-badges -->
