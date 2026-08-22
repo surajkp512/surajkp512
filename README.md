@@ -25,18 +25,6 @@ Welcome to my GitHub! I’m learning, experimenting, and building projects aroun
 
 ---
 
-## 📈 GitHub Stats
-
-<!-- Stats cards from github-readme-stats -->
-![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=surajkp512&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surajkp512&layout=compact&theme=transparent)
-
-<!-- Streak stats -->
-![GitHub Streak](https://streak-stats.demolab.com?user=surajkp512&theme=transparent&date_format=j%20M%5B%20Y%5D)
-
----
-
 ## 📫 Connect
 
 - GitHub: [@surajkp512](https://github.com/surajkp512)
